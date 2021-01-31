@@ -1,0 +1,2 @@
+# GeoLocation_App
+This is an mobile app created using React Native + EXPO CLI to simply get your current location. The app uses "expo-permissions", "expo-location" packages to authorize location permissions from user. If you would like to try it out simply clone or download the repo and open with EXPO-CLI. Once the app runs simply touch the "Where am i ?" text. Finally the app should provide you the location coordinates. 
